@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Raphael Hes",
+    "email": "raphael@gmail.com",
+    "jobTitle": "JavaScript",
+    "phone": "19992586698",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "employeeCode": "77e5596b-8655-4387-ad96-9eed19c4a862"
+  },
+  {
+    "id": 2,
+    "name": "Ronaldo Hes",
+    "email": "ronaldo@gmail.com",
+    "jobTitle": "JavaScript",
+    "phone": "19992586698",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+    "employeeCode": "953b8089-ee6f-4085-aeff-69288a2892ea"
+  }
+]
